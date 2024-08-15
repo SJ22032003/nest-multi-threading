@@ -4,6 +4,10 @@
 
 This project demonstrates the use of JavaScript's multithreading capabilities, specifically leveraging `worker_threads`, in a NestJS application for processing images. The service allows users to upload multiple images, which are then processed (resized, blurred, and converted to different formats) concurrently using multithreading, significantly improving the performance and efficiency of the application.
 
+## Showcase
+![Screenshot from 2024-08-15 18-32-01](https://github.com/user-attachments/assets/b8967993-499b-4600-9652-16e4d7b45d61)
+
+
 ## Importance of Multithreading in JavaScript
 
 ### Why Multithreading?
