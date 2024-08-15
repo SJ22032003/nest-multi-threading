@@ -22,6 +22,7 @@ JavaScript, running in a Node.js environment, supports multithreading through th
 
 ### Main Features
 
+- **Customizable:** Users can select how many cors the process should use. This can help to visualize how multi-threading can improve performance.
 - **Image Upload:** Users can upload multiple images in different formats.
 - **Concurrent Image Processing:** The application processes images concurrently across multiple CPU cores, applying blur effects, resizing, and format conversion.
 - **Customizable Processing:** Users can specify the level of blur, image dimensions, output format, and the number of CPU cores to use for processing.
@@ -90,6 +91,6 @@ curl -X POST http://localhost:3000/process \
 
 ## Conclusion
 
-This project showcases how JavaScript, traditionally single-threaded, can efficiently handle CPU-bound tasks like image processing using multithreading with worker threads. By leveraging NestJS's robust architecture, this application efficiently manages concurrent tasks, making it a powerful example of modern JavaScript capabilities.
+This project showcases how JavaScript(Typescript), traditionally single-threaded, can efficiently handle CPU-bound tasks like image processing using multithreading with worker threads. By leveraging NestJS's robust architecture, this application efficiently manages concurrent tasks, making it a powerful example of modern JavaScript capabilities.
 
 This project is ideal for learning about multithreading in JavaScript, building performance-critical applications, and gaining experience with NestJS, making it a valuable addition to any developer's portfolio.
