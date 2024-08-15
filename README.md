@@ -6,6 +6,8 @@ This project demonstrates the use of JavaScript's multithreading capabilities, s
 
 ## Showcase
 ![Screenshot from 2024-08-15 18-32-01](https://github.com/user-attachments/assets/b8967993-499b-4600-9652-16e4d7b45d61)
+![Screenshot from 2024-08-15 21-01-06](https://github.com/user-attachments/assets/c8247297-ca71-48f6-803f-ba460fde691a)
+
 
 
 ## Importance of Multithreading in JavaScript
