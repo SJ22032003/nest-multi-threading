@@ -59,8 +59,8 @@ JavaScript, running in a Node.js environment, supports multithreading through th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/image-processing-service.git
-    cd image-processing-service
+    git clone https://github.com/SJ22032003/nest-multi-threading
+    cd nest-multi-threading
     ```
 
 2. Install the dependencies:
